@@ -1,0 +1,21 @@
+*{
+    background-color: azure;
+    color: black !important;
+}
+.moonlight{
+    background: black;
+    color: white !important;
+    padding: 15px;
+    border-radius: 50%;
+    margin-top: -10px;
+}
+
+#Botam{
+    border-radius: 25px;
+}
+#tree{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
